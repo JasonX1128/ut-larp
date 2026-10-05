@@ -1,0 +1,251 @@
+company,role,location,prestige,band,selectivity,sourcePay,currency,payCadHr,volatility,survivalJob,topAxes,mod_systems,mod_product,mod_aiData,mod_quant,mod_hardware,mod_mechanical,mod_bioNano,mod_general
+"Jane Street","Software Engineering Intern","New York, NY",10,"cracked af",10,145,USD,195.75,2,false,systems/quant/aiData,10,2,4,10,3,0,0,0
+"XTX Markets","Quantitative Research Intern","London, UK",10,"cracked af",10,100,GBP,187.82,2,false,aiData/quant/systems,9,1,10,10,2,0,0,0
+"Google DeepMind","Research Engineer Intern","London, UK",10,"cracked af",10,95,GBP,178.43,2,false,aiData/systems/product,9,5,10,5,4,1,1,0
+"Renaissance Technologies","Quantitative Research Intern","East Setauket, NY",10,"cracked af",10,125,USD,168.75,2,false,aiData/quant/systems,9,1,10,10,1,0,0,0
+"Hudson River Trading","Algorithm Developer Intern","New York, NY",10,"cracked af",10,115,USD,155.25,2,false,systems/quant/aiData,10,1,6,10,4,0,0,0
+"Jump Trading","Quantitative Research Intern","Chicago, IL",10,"cracked af",10,115,USD,155.25,3,false,quant/systems/aiData,9,1,9,10,2,0,0,0
+"Mistral AI","Research Engineer Intern","Paris, FR",10,"cracked af",10,95,EUR,152.29,5,false,aiData/systems/product,9,5,10,4,3,0,0,0
+"Citadel Securities","Quantitative Developer Intern","Chicago, IL",10,"cracked af",10,110,USD,148.5,3,false,quant/systems/aiData,9,1,5,10,3,0,0,0
+"D. E. Shaw","Quantitative Developer Intern","New York, NY",10,"cracked af",10,110,USD,148.5,2,false,systems/quant/aiData,10,2,8,10,2,0,0,0
+"Tower Research Capital","Quantitative Developer Intern","New York, NY",10,"cracked af",10,110,USD,148.5,3,false,systems/quant/aiData,10,2,7,10,3,0,0,0
+"Millennium","Quantitative Research Intern","New York, NY",10,"cracked af",10,110,USD,148.5,3,false,aiData/quant/systems,8,2,10,10,1,0,0,0
+"Anthropic","Machine Learning Systems Intern","San Francisco, CA",10,"cracked af",10,100,USD,135,4,false,systems/aiData/product,10,5,10,4,4,0,0,0
+"OpenAI","Software Engineering Intern","San Francisco, CA",10,"cracked af",10,95,USD,128.25,3,false,systems/aiData/product,10,5,10,5,3,0,0,0
+"xAI","AI Engineering Intern","Palo Alto, CA",10,"cracked af",9,95,USD,128.25,6,false,systems/aiData/product,10,5,10,4,4,1,0,0
+"Netflix","Software Engineering Intern","Los Gatos, CA",10,"cracked af",10,85,USD,114.75,3,false,product/systems/aiData,9,10,7,2,2,0,0,0
+"Meta","Software Engineering Intern","Menlo Park, CA",10,"cracked af",9,80,USD,108,3,false,systems/product/aiData,9,9,7,2,3,0,0,0
+"Google","Software Engineering Intern","Mountain View, CA",10,"cracked af",9,78,USD,105.3,2,false,systems/product/aiData,9,8,7,3,4,0,0,1
+"NVIDIA","Systems Software Intern","Santa Clara, CA",10,"cracked af",9,72,USD,97.2,2,false,hardware/systems/aiData,9,4,9,3,10,4,2,0
+"Apple","Hardware Engineering Intern","Cupertino, CA",10,"cracked af",9,70,USD,94.5,2,false,hardware/product/systems,6,8,5,1,10,5,1,0
+"SpaceX","Software Engineering Intern","Hawthorne, CA",10,"cracked af",10,68,USD,91.8,5,false,mechanical/hardware/systems,8,2,5,1,9,10,2,2
+"Microsoft","Software Engineering Intern","Redmond, WA",10,"cracked af",8,64,USD,86.4,2,false,product/systems/aiData,8,9,6,2,4,0,0,0
+"Five Rings","Quantitative Research Intern","New York, NY",9,"cracked af",10,105,USD,141.75,3,false,quant/systems/aiData,8,2,8,10,1,0,0,0
+"Two Sigma","Quantitative Software Intern","New York, NY",9,"cracked af",10,100,USD,135,2,false,quant/systems/aiData,9,1,7,10,2,0,0,0
+"Susquehanna International Group","Quantitative Trading Intern","Bala Cynwyd, PA",9,"cracked af",10,100,USD,135,3,false,quant/systems/aiData,8,2,7,10,1,0,0,0
+"Optiver","Software Engineering Intern","Chicago, IL",9,"cracked af",9,90,USD,121.5,3,false,quant/systems/aiData,9,1,4,10,4,0,0,0
+"IMC Trading","Software Engineering Intern","Chicago, IL",9,"cracked af",9,88,USD,118.8,3,false,quant/systems/aiData,9,1,4,10,4,0,0,0
+"DRW","Quantitative Developer Intern","Chicago, IL",9,"cracked af",9,85,USD,114.75,3,false,quant/systems/aiData,8,1,5,10,3,0,0,0
+"Scale AI","Machine Learning Intern","San Francisco, CA",9,"cracked af",9,85,USD,114.75,5,false,aiData/systems/product,8,5,10,4,4,1,0,0
+"Databricks","ML Infrastructure Intern","San Francisco, CA",9,"cracked af",10,82,USD,110.7,3,false,systems/aiData/product,10,5,10,4,2,0,0,0
+"Stripe","Software Engineering Intern","San Francisco, CA",9,"cracked af",10,82,USD,110.7,3,false,product/systems/aiData,9,10,5,5,2,0,0,0
+"Waymo","Autonomous Systems Intern","Mountain View, CA",9,"cracked af",9,82,USD,110.7,3,false,aiData/mechanical/systems,8,4,10,2,8,10,0,0
+"Zoox","Autonomous Vehicle Software Intern","Foster City, CA",9,"cracked af",9,80,USD,108,4,false,mechanical/aiData/systems,8,4,9,2,8,10,0,0
+"ByteDance","Software Engineering Intern","San Jose, CA",9,"cracked af",9,78,USD,105.3,4,false,product/systems/aiData,9,10,8,2,3,0,0,0
+"Neuralink","Neurotechnology Engineering Intern","Fremont, CA",9,"cracked af",9,78,USD,105.3,6,false,bioNano/hardware/aiData,7,3,8,2,9,7,10,0
+"Palantir","Software Engineering Intern","New York, NY",9,"cracked af",9,75,USD,101.25,3,false,systems/aiData/product,9,8,8,4,2,0,0,2
+"Anduril","Autonomous Systems Intern","Costa Mesa, CA",9,"cracked af",9,75,USD,101.25,5,false,mechanical/hardware/systems,8,5,8,2,9,10,0,0
+"Figma","Software Engineering Intern","San Francisco, CA",9,"cracked af",9,75,USD,101.25,3,false,product/systems/aiData,8,10,7,2,2,0,0,0
+"Blue Origin","Aerospace Engineering Intern","Kent, WA",9,"cracked af",9,75,USD,101.25,4,false,mechanical/hardware/systems,6,2,5,1,9,10,1,0
+"Roblox","Software Engineering Intern","San Mateo, CA",9,"cracked af",9,74,USD,99.9,3,false,product/systems/aiData,9,10,6,2,4,1,0,0
+"Airbnb","Software Engineering Intern","San Francisco, CA",9,"cracked af",9,72,USD,97.2,3,false,product/systems/aiData,7,10,6,2,1,0,0,1
+"LinkedIn","Backend Engineering Intern","Sunnyvale, CA",9,"cracked af",9,72,USD,97.2,2,false,systems/product/aiData,9,9,7,2,2,0,0,0
+"Spotify","Software Engineering Intern","New York, NY",9,"cracked af",9,72,USD,97.2,3,false,product/systems/aiData,8,10,8,2,2,0,0,0
+"Broadcom","Silicon Engineering Intern","San Jose, CA",9,"cracked af",9,72,USD,97.2,2,false,hardware/systems/aiData,8,2,5,2,10,2,0,0
+"Snowflake","Database Engineering Intern","San Mateo, CA",9,"cracked af",9,70,USD,94.5,3,false,systems/aiData/product,10,5,8,4,2,0,0,0
+"ASML","Mechatronics Engineering Intern","Wilton, CT",9,"cracked af",9,70,USD,94.5,2,false,mechanical/hardware/systems,5,2,5,1,9,10,2,0
+"TSMC","Process Integration Intern","Phoenix, AZ",9,"cracked af",9,70,USD,94.5,2,false,hardware/bioNano/mechanical,4,2,6,2,10,7,9,0
+"Genentech","Bioinformatics Intern","South San Francisco, CA",9,"cracked af",9,70,USD,94.5,2,false,bioNano/aiData/quant,4,3,9,5,2,1,10,0
+"Tesla","Firmware Engineering Intern","Palo Alto, CA",9,"cracked af",9,68,USD,91.8,5,false,mechanical/hardware/systems,7,3,6,1,9,10,2,1
+"Eli Lilly","Data Science Intern","Indianapolis, IN",9,"cracked af",9,68,USD,91.8,2,false,bioNano/aiData/quant,4,4,9,5,2,1,10,0
+"Amazon","Software Development Engineer Intern","Seattle, WA",9,"cracked af",8,66,USD,89.1,3,false,systems/product/aiData,9,8,5,2,4,2,0,1
+"Boston Dynamics","Robotics Engineering Intern","Waltham, MA",9,"cracked af",9,65,USD,87.75,3,false,mechanical/hardware/aiData,5,2,8,1,9,10,0,0
+"Uber","Software Engineering Intern","San Francisco, CA",9,"cracked af",8,64,USD,86.4,3,false,systems/product/aiData,9,9,7,4,2,1,0,4
+"GitHub","Software Engineering Intern","San Francisco, CA",9,"cracked af",9,62,USD,83.7,2,false,product/systems/aiData,9,10,5,2,1,0,0,0
+"Bloomberg","Software Engineering Intern","New York, NY",9,"cracked af",8,58,USD,78.3,2,false,systems/quant/product,9,6,6,8,3,0,0,0
+"Adobe","Software Engineering Intern","San Jose, CA",9,"cracked af",8,52,USD,70.2,2,false,product/aiData/systems,7,10,8,2,2,0,0,0
+"Cohere","Machine Learning Intern","Toronto, ON",9,"cracked af",9,62,CAD,62,5,false,aiData/systems/product,8,4,10,4,4,0,0,0
+"Shopify","Backend Developer Intern","Toronto, ON",9,"cracked af",8,50,CAD,50,4,false,product/systems/aiData,8,10,5,3,1,0,0,0
+"Akuna Capital","Quantitative Developer Intern","Chicago, IL",8,"ballin'",9,85,USD,114.75,4,false,quant/systems/aiData,9,2,7,10,2,0,0,0
+"Point72","Quantitative Research Intern","New York, NY",8,"ballin'",9,85,USD,114.75,4,false,quant/aiData/systems,7,3,9,10,1,0,0,0
+"Goldman Sachs","Quantitative Strategist Intern","New York, NY",8,"ballin'",9,75,USD,101.25,3,false,quant/systems/aiData,8,4,8,10,1,0,0,0
+"Ramp","Software Engineering Intern","New York, NY",8,"ballin'",9,72,USD,97.2,5,false,product/systems/quant,8,10,5,8,1,0,0,0
+"Snap","Software Engineering Intern","Los Angeles, CA",8,"ballin'",9,65,USD,87.75,4,false,product/aiData/systems,7,10,8,2,5,1,0,0
+"Discord","Software Engineering Intern","San Francisco, CA",8,"ballin'",8,65,USD,87.75,4,false,product/systems/aiData,8,10,7,2,3,0,0,0
+"Fidelity Investments","Quantitative Developer Intern","Boston, MA",8,"ballin'",9,65,USD,87.75,2,false,quant/systems/aiData,8,4,8,10,2,0,0,0
+"Coinbase","Software Engineering Intern","San Francisco, CA",8,"ballin'",8,62,USD,83.7,6,false,systems/product/quant,9,9,5,7,2,0,0,0
+"DoorDash","Software Engineering Intern","San Francisco, CA",8,"ballin'",8,62,USD,83.7,4,false,product/systems/aiData,8,10,7,4,1,1,0,4
+"Datadog","Software Engineering Intern","New York, NY",8,"ballin'",7,62,USD,83.7,3,false,systems/aiData/product,10,7,8,3,3,0,0,0
+"Twitch","Software Engineering Intern","San Francisco, CA",8,"ballin'",8,62,USD,83.7,4,false,product/systems/aiData,8,10,7,2,2,0,0,0
+"Arm","CPU Engineering Intern","Austin, TX",8,"ballin'",8,62,USD,83.7,2,false,hardware/systems/aiData,8,2,5,2,10,2,0,0
+"Instacart","Software Engineering Intern","San Francisco, CA",8,"ballin'",8,60,USD,81,4,false,product/systems/aiData,8,10,7,3,1,1,0,4
+"Dropbox","Software Engineering Intern","San Francisco, CA",8,"ballin'",8,60,USD,81,3,false,systems/product/aiData,9,9,5,2,2,0,0,0
+"Block","Software Engineering Intern","San Francisco, CA",8,"ballin'",8,60,USD,81,4,false,product/systems/quant,8,10,5,7,3,0,0,0
+"Qualcomm","Wireless Systems Intern","San Diego, CA",8,"ballin'",8,60,USD,81,2,false,hardware/systems/aiData,8,3,6,3,10,1,0,0
+"Twilio","Software Engineering Intern","San Francisco, CA",8,"ballin'",8,60,USD,81,4,false,systems/product/aiData,9,9,6,3,3,0,0,0
+"Okta","Software Engineering Intern","San Francisco, CA",8,"ballin'",8,60,USD,81,3,false,systems/product/aiData,10,8,6,2,3,0,0,0
+"Splunk","Data Platform Intern","San Francisco, CA",8,"ballin'",8,60,USD,81,3,false,systems/aiData/product,10,7,9,4,3,0,0,0
+"Epic Games","Software Engineering Intern","Cary, NC",8,"ballin'",8,60,USD,81,4,false,product/systems/aiData,8,10,7,2,5,3,0,0
+"Samsung Semiconductor","Hardware Engineering Intern","San Jose, CA",8,"ballin'",8,60,USD,81,2,false,hardware/systems/aiData,7,3,6,2,10,3,1,0
+"Cloudflare","Systems Engineering Intern","San Francisco, CA",8,"ballin'",8,58,USD,78.3,3,false,systems/product/aiData,10,6,5,2,5,0,0,1
+"Reddit","Software Engineering Intern","San Francisco, CA",8,"ballin'",8,58,USD,78.3,4,false,product/systems/aiData,8,10,6,2,1,0,0,0
+"Pinterest","Software Engineering Intern","San Francisco, CA",8,"ballin'",8,58,USD,78.3,3,false,product/aiData/systems,7,10,8,2,1,0,0,0
+"MongoDB","Software Engineering Intern","New York, NY",8,"ballin'",8,58,USD,78.3,3,false,systems/product/aiData,10,7,7,3,2,0,0,0
+"ServiceNow","Software Engineering Intern","Santa Clara, CA",8,"ballin'",7,58,USD,78.3,2,false,systems/product/aiData,9,9,6,2,2,0,0,0
+"Duolingo","Software Engineering Intern","Pittsburgh, PA",8,"ballin'",8,58,USD,78.3,3,false,product/aiData/systems,7,10,9,2,1,0,0,0
+"Sony Interactive Entertainment","Software Engineering Intern","San Mateo, CA",8,"ballin'",8,58,USD,78.3,3,false,product/systems/aiData,8,10,6,2,6,2,0,0
+"Lam Research","Process Engineering Intern","Fremont, CA",8,"ballin'",8,58,USD,78.3,2,false,mechanical/bioNano/hardware,3,2,5,2,8,10,9,0
+"KLA","Semiconductor Systems Intern","Milpitas, CA",8,"ballin'",8,58,USD,78.3,2,false,hardware/aiData/bioNano,5,2,7,2,10,6,7,0
+"Regeneron","Computational Biology Intern","Tarrytown, NY",8,"ballin'",8,58,USD,78.3,2,false,bioNano/aiData/quant,4,3,9,5,2,1,10,0
+"Atlassian","Software Engineering Intern","San Francisco, CA",8,"ballin'",8,55,USD,74.25,3,false,product/systems/aiData,8,10,5,2,1,0,0,0
+"Rivian","Vehicle Systems Intern","Palo Alto, CA",8,"ballin'",8,55,USD,74.25,5,false,mechanical/hardware/systems,5,4,5,1,8,10,0,0
+"Moderna","Bioinformatics Intern","Cambridge, MA",8,"ballin'",8,55,USD,74.25,3,false,aiData/bioNano/quant,4,3,10,5,2,1,10,0
+"Illumina","Genomics Data Science Intern","San Diego, CA",8,"ballin'",8,55,USD,74.25,2,false,aiData/bioNano/quant,5,3,10,6,2,1,10,0
+"HubSpot","Software Engineering Intern","Cambridge, MA",8,"ballin'",7,55,USD,74.25,3,false,product/systems/aiData,8,10,7,3,1,0,0,0
+"AbbVie","Bioinformatics Intern","North Chicago, IL",8,"ballin'",8,55,USD,74.25,2,false,bioNano/aiData/systems,4,3,9,4,2,1,10,0
+"Riot Games","Software Engineering Intern","Los Angeles, CA",8,"ballin'",8,52,USD,70.2,3,false,product/systems/aiData,9,10,7,2,4,3,0,0
+"Salesforce","Software Engineering Intern","San Francisco, CA",8,"ballin'",7,50,USD,67.5,3,false,product/systems/aiData,8,10,6,2,1,0,0,0
+"Waabi","Machine Learning Engineering Intern","Toronto, ON",8,"ballin'",9,65,CAD,65,5,false,aiData/mechanical/systems,7,3,10,2,6,8,0,5
+"PayPal","Software Engineering Intern","San Jose, CA",8,"ballin'",7,48,USD,64.8,3,false,product/systems/quant,8,9,5,8,2,0,0,0
+"Oracle","Cloud Engineering Intern","Austin, TX",8,"ballin'",7,45,USD,60.75,2,false,systems/product/aiData,9,7,6,3,2,0,0,0
+"AMD","Silicon Design Intern","Markham, ON",8,"ballin'",8,58,CAD,58,2,false,hardware/systems/aiData,8,2,5,2,10,2,0,0
+"Canva","Software Engineering Intern","Sydney, AU",8,"ballin'",8,58,AUD,57.1,3,false,product/systems/aiData,8,10,7,2,2,0,0,0
+"Intel","Hardware Engineering Intern","Toronto, ON",8,"ballin'",8,55,CAD,55,2,false,hardware/systems/aiData,8,2,4,2,10,2,0,0
+"Wealthsimple","Software Engineering Intern","Toronto, ON",8,"ballin'",8,50,CAD,50,4,false,product/quant/systems,7,10,6,8,1,0,0,0
+"Unity","Software Engineering Intern","Montréal, QC",8,"ballin'",7,44,CAD,44,4,false,product/systems/aiData,8,10,6,2,5,4,0,0
+"CPP Investments","Quantitative Engineering Intern","Toronto, ON",8,"ballin'",7,43,CAD,43,2,false,quant/systems/aiData,7,4,7,10,1,0,0,0
+"Autodesk","Software Developer Intern","Toronto, ON",8,"ballin'",7,42,CAD,42,2,false,product/systems/mechanical,7,9,6,2,4,6,1,5
+"Morgan Stanley","Quantitative Analyst Intern","New York, NY",7,"ballin'",8,65,USD,87.75,3,false,quant/aiData/systems,7,4,8,10,1,0,0,0
+"JPMorgan Chase","Quantitative Research Intern","New York, NY",7,"ballin'",8,65,USD,87.75,3,false,quant/aiData/systems,7,4,8,10,1,0,0,0
+"Rocket Lab","Mechanical Engineering Intern","Long Beach, CA",7,"ballin'",8,52,USD,70.2,4,false,mechanical/hardware/systems,5,2,5,1,8,10,1,0
+"Cadence","Digital Design Intern","San Jose, CA",7,"ballin'",7,50,USD,67.5,2,false,hardware/systems/aiData,8,3,4,3,10,1,0,0
+"Applied Materials","Process Engineering Intern","Santa Clara, CA",7,"ballin'",7,50,USD,67.5,2,false,mechanical/bioNano/hardware,4,2,6,2,8,10,9,0
+"Texas Instruments","Analog Design Intern","Dallas, TX",7,"ballin'",7,48,USD,64.8,2,false,hardware/systems/aiData,5,2,3,3,10,2,0,0
+"Amgen","Computational Biology Intern","Thousand Oaks, CA",7,"ballin'",7,48,USD,64.8,2,false,aiData/bioNano/quant,4,3,10,5,2,1,10,0
+"Boeing","Aerospace Engineering Intern","Seattle, WA",7,"ballin'",7,45,USD,60.75,3,false,mechanical/hardware/aiData,4,2,4,1,8,10,0,1
+"Synopsys","EDA Software Intern","Mississauga, ON",7,"ballin'",7,50,CAD,50,2,false,hardware/systems/aiData,9,3,5,3,10,1,0,0
+"Mastercard","Software Engineering Intern","Vancouver, BC",7,"ballin'",7,50,CAD,50,2,false,product/quant/systems,8,9,6,9,2,0,0,0
+"Visa","Data Engineering Intern","Toronto, ON",7,"ballin'",7,50,CAD,50,2,false,quant/product/aiData,7,8,8,9,1,0,0,0
+"Roche","Computational Biology Intern","Mississauga, ON",7,"ballin'",7,48,CAD,48,2,false,aiData/bioNano/quant,4,3,10,5,2,1,10,0
+"Novartis","Data Science Intern","Toronto, ON",7,"ballin'",7,48,CAD,48,2,false,aiData/bioNano/quant,4,4,10,5,2,1,9,0
+"AstraZeneca","Bioinformatics Intern","Mississauga, ON",7,"ballin'",7,48,CAD,48,2,false,aiData/bioNano/systems,4,3,10,4,2,1,10,0
+"Workday","Software Engineering Intern","Vancouver, BC",7,"ballin'",7,48,CAD,48,2,false,product/systems/aiData,8,10,6,3,1,0,0,0
+"Merck","Data Science Intern","Kirkland, QC",7,"ballin'",7,48,CAD,48,2,false,bioNano/aiData/quant,4,4,9,5,2,1,10,0
+"Stryker","Biomedical Engineering Intern","Hamilton, ON",7,"ballin'",7,47,CAD,47,2,false,bioNano/hardware/mechanical,3,3,6,2,8,7,10,0
+"Ubisoft","Game Programming Intern","Montréal, QC",7,"ballin'",7,45,CAD,45,4,false,product/systems/aiData,8,10,6,2,6,3,0,0
+"Lockheed Martin","Mechanical Systems Intern","Ottawa, ON",7,"ballin'",7,44,CAD,44,2,false,mechanical/hardware/systems,6,1,4,1,8,10,0,0
+"Electronic Arts","Software Engineering Intern","Vancouver, BC",7,"ballin'",6,43,CAD,43,3,false,product/systems/aiData,8,10,6,2,5,3,0,0
+"Johnson & Johnson","Biomedical Engineering Intern","Toronto, ON",7,"ballin'",6,42,CAD,42,2,false,bioNano/hardware/aiData,3,3,6,2,8,6,10,0
+"Bank of America","Global Markets Quant Intern","New York, NY",6,"ok i guess",7,55,USD,74.25,3,false,quant/aiData/systems,6,4,7,10,1,0,0,0
+"Analog Devices","Electrical Engineering Intern","Wilmington, MA",6,"ok i guess",6,45,USD,60.75,2,false,hardware/systems/aiData,5,2,4,2,10,2,0,0
+"Pfizer","Data Science Intern","New York, NY",6,"ok i guess",6,40,USD,54,2,false,bioNano/aiData/systems,4,4,8,4,3,1,10,1
+"GE Aerospace","Turbomachinery Engineering Intern","Cincinnati, OH",6,"ok i guess",6,40,USD,54,3,false,mechanical/hardware/aiData,3,2,4,1,7,10,0,0
+"Ford","Autonomous Systems Intern","Dearborn, MI",6,"ok i guess",5,38,USD,51.3,3,false,mechanical/aiData/hardware,5,4,8,2,8,10,1,4
+"Esri","GIS Software Intern","Redlands, CA",6,"ok i guess",5,38,USD,51.3,2,false,aiData/systems/product,6,7,7,2,2,2,0,10
+"Capital One","Data Science Intern","Toronto, ON",6,"ok i guess",6,50,CAD,50,3,false,aiData/quant/systems,6,6,9,8,1,0,0,0
+"John Deere","Robotics Engineering Intern","Moline, IL",6,"ok i guess",5,35,USD,47.25,2,false,mechanical/hardware/aiData,5,2,7,1,8,10,0,0
+"Cisco","Network Engineering Intern","Ottawa, ON",6,"ok i guess",6,45,CAD,45,2,false,systems/hardware/aiData,10,5,5,2,9,1,0,1
+"L3Harris","Embedded Systems Co-op","Burlington, ON",6,"ok i guess",6,44,CAD,44,2,false,hardware/systems/aiData,8,3,5,1,10,5,0,0
+"Collins Aerospace","Avionics Engineering Intern","Ottawa, ON",6,"ok i guess",7,44,CAD,44,2,false,hardware/mechanical/systems,6,2,4,1,10,8,0,0
+"1Password","Software Developer Intern","Toronto, ON",6,"ok i guess",7,43,CAD,43,3,false,product/systems/aiData,8,10,4,2,2,0,0,0
+"GSK","Bioinformatics Intern","Mississauga, ON",6,"ok i guess",6,43,CAD,43,2,false,aiData/bioNano/systems,4,3,10,4,2,1,10,0
+"Dell Technologies","Software Engineering Intern","Toronto, ON",6,"ok i guess",5,42,CAD,42,2,false,systems/product/aiData,9,8,6,3,5,1,0,0
+"Lenovo","Firmware Engineering Intern","Markham, ON",6,"ok i guess",6,42,CAD,42,2,false,hardware/systems/product,8,4,4,1,10,4,0,0
+"Bosch","Controls Engineering Intern","Mississauga, ON",6,"ok i guess",6,42,CAD,42,2,false,mechanical/hardware/systems,5,3,5,1,9,10,0,0
+"Schneider Electric","Automation Engineering Co-op","Mississauga, ON",6,"ok i guess",6,42,CAD,42,2,false,mechanical/hardware/systems,5,3,4,1,9,10,0,1
+"HP","Software Engineering Intern","Mississauga, ON",6,"ok i guess",5,41,CAD,41,2,false,systems/product/hardware,9,8,5,2,6,2,0,0
+"Eaton","Electrical Engineering Co-op","Burlington, ON",6,"ok i guess",6,41,CAD,41,2,false,hardware/mechanical/aiData,4,2,4,1,10,8,0,1
+"Medtronic","Biomedical Engineering Intern","Brampton, ON",6,"ok i guess",6,40,CAD,40,2,false,bioNano/hardware/mechanical,3,3,6,2,8,7,10,1
+"Sanofi","Bioprocess Engineering Intern","Toronto, ON",6,"ok i guess",5,40,CAD,40,2,false,bioNano/hardware/aiData,2,3,5,2,6,5,10,0
+"Deloitte","Technology Consulting Co-op","Toronto, ON",6,"ok i guess",5,40,CAD,40,3,false,quant/aiData/product,6,7,7,9,2,1,0,3
+"PwC","Data and Technology Co-op","Toronto, ON",6,"ok i guess",5,40,CAD,40,3,false,quant/aiData/product,5,7,8,9,1,0,0,3
+"EY","Technology Consulting Co-op","Toronto, ON",6,"ok i guess",5,40,CAD,40,3,false,quant/aiData/product,6,7,7,9,1,0,0,3
+"KPMG","Technology Risk Co-op","Toronto, ON",6,"ok i guess",5,40,CAD,40,3,false,quant/aiData/product,6,7,7,8,2,0,0,2
+"IBM","Software Developer Intern","Markham, ON",6,"ok i guess",6,38,CAD,38,2,false,systems/product/aiData,8,7,7,3,5,1,2,0
+"SAP","Software Developer Intern","Waterloo, ON",6,"ok i guess",6,38,CAD,38,2,false,product/systems/aiData,7,9,6,3,2,0,0,0
+"General Motors","Software Engineering Intern","Oshawa, ON",6,"ok i guess",5,38,CAD,38,3,false,mechanical/hardware/aiData,6,5,7,2,8,10,1,3
+"Honeywell","Embedded Systems Intern","Kanata, ON",6,"ok i guess",5,38,CAD,38,2,false,hardware/mechanical/systems,7,3,5,1,9,8,2,3
+"ABB","Robotics Engineering Intern","Burlington, ON",6,"ok i guess",5,38,CAD,38,2,false,mechanical/hardware/systems,5,3,5,1,9,10,0,0
+"Siemens","Automation Engineering Intern","Oakville, ON",6,"ok i guess",5,37,CAD,37,2,false,mechanical/hardware/systems,6,4,5,2,9,9,2,4
+"Pratt & Whitney","Systems Engineering Intern","Longueuil, QC",6,"ok i guess",5,35,CAD,35,2,false,mechanical/hardware/systems,6,2,4,2,8,10,2,3
+"Toyota","Manufacturing Engineering Co-op","Cambridge, ON",6,"ok i guess",5,30,CAD,30,2,false,mechanical/hardware/aiData,3,3,4,2,6,10,1,4
+"Microchip Technology","Embedded Systems Intern","Chandler, AZ",5,"ok i guess",5,38,USD,51.3,2,false,hardware/systems/aiData,8,2,3,1,10,3,0,0
+"FANUC","Industrial Robotics Intern","Rochester Hills, MI",5,"ok i guess",5,36,USD,48.6,2,false,mechanical/hardware/aiData,4,2,5,1,9,10,0,0
+"KUKA","Automation Engineering Intern","Detroit, MI",5,"ok i guess",4,34,USD,45.9,2,false,mechanical/hardware/systems,4,3,4,1,9,10,0,0
+"Caterpillar","Mechanical Engineering Intern","Peoria, IL",5,"ok i guess",4,32,USD,43.2,2,false,mechanical/hardware/aiData,2,1,2,0,6,10,0,1
+"CAE","Simulation Software Intern","Montréal, QC",5,"ok i guess",5,39,CAD,39,2,false,mechanical/systems/hardware,8,4,7,3,8,9,0,1
+"Thermo Fisher Scientific","Scientific Instrumentation Intern","Burlington, ON",5,"ok i guess",5,38,CAD,38,2,false,bioNano/hardware/aiData,3,3,5,2,9,5,10,0
+"Garmin","Embedded Software Intern","Cochrane, AB",5,"ok i guess",5,38,CAD,38,2,false,hardware/systems/mechanical,8,4,4,1,10,5,0,3
+"Baxter","Biomedical Engineering Intern","Mississauga, ON",5,"ok i guess",5,38,CAD,38,2,false,bioNano/hardware/aiData,3,3,6,2,7,6,10,0
+"Ericsson","5G Software Intern","Ottawa, ON",5,"ok i guess",5,37,CAD,37,2,false,hardware/systems/aiData,8,4,5,2,9,3,0,2
+"OMERS","Investment Technology Intern","Toronto, ON",5,"ok i guess",5,36,CAD,36,2,false,quant/systems/aiData,6,5,6,9,1,0,0,0
+"Dayforce","Software Developer Intern","Toronto, ON",5,"ok i guess",4,36,CAD,36,2,false,product/systems/aiData,8,9,6,5,1,0,0,0
+"Kinaxis","Software Developer Co-op","Ottawa, ON",5,"ok i guess",4,36,CAD,36,2,false,product/aiData/systems,7,9,8,5,2,1,0,4
+"Suncor","Mechanical Engineering Co-op","Calgary, AB",5,"ok i guess",5,36,CAD,36,3,false,mechanical/hardware/aiData,2,2,3,1,5,10,1,5
+"AtkinsRéalis","Engineering Co-op","Montréal, QC",5,"ok i guess",5,36,CAD,36,2,false,mechanical/hardware/aiData,3,3,4,2,6,10,1,5
+"Thomson Reuters","Software Engineering Co-op","Toronto, ON",5,"ok i guess",5,35,CAD,35,2,false,product/systems/aiData,7,8,7,6,1,0,0,0
+"Rockwell Automation","Controls Engineering Intern","Cambridge, ON",5,"ok i guess",4,35,CAD,35,2,false,hardware/mechanical/systems,5,3,3,1,10,8,0,0
+"Hootsuite","Software Developer Co-op","Vancouver, BC",5,"ok i guess",4,35,CAD,35,3,false,product/systems/aiData,7,10,6,3,1,0,0,0
+"PointClickCare","Software Engineering Co-op","Mississauga, ON",5,"ok i guess",4,35,CAD,35,2,false,product/systems/aiData,7,9,7,3,1,0,3,0
+"Geotab","Data Platform Intern","Oakville, ON",5,"ok i guess",5,34,CAD,34,2,false,aiData/systems/mechanical,7,6,8,3,6,5,0,8
+"Bombardier","Aerospace Engineering Intern","Montréal, QC",5,"ok i guess",4,34,CAD,34,2,false,mechanical/hardware/aiData,4,2,4,1,8,10,2,4
+"FreshBooks","Software Developer Intern","Toronto, ON",5,"ok i guess",3,34,CAD,34,3,false,product/systems/aiData,7,10,5,5,1,0,0,0
+"BlackBerry","Embedded Software Student","Waterloo, ON",5,"ok i guess",5,32,CAD,32,2,false,hardware/systems/mechanical,8,4,3,1,9,4,0,1
+"RBC","Software Developer Co-op","Toronto, ON",5,"ok i guess",4,31,CAD,31,2,false,quant/systems/product,7,7,5,8,2,0,0,0
+"Ontario Power Generation","Engineering Co-op","Oshawa, ON",5,"ok i guess",4,31,CAD,31,1,false,mechanical/hardware/aiData,3,2,4,2,9,9,1,7
+"AECOM","Infrastructure Data Intern","Toronto, ON",5,"ok i guess",4,30,CAD,30,2,false,mechanical/aiData/systems,4,4,6,2,4,8,1,9
+"Honda","Engineering Co-op","Alliston, ON",5,"ok i guess",4,29,CAD,29,2,false,mechanical/hardware/aiData,3,3,4,1,7,10,1,3
+"Nokia","Network Software Intern","Ottawa, ON",4,"mid",4,36,CAD,36,2,false,hardware/systems/aiData,8,4,5,2,9,3,0,2
+"Stantec","Digital Engineering Co-op","Toronto, ON",4,"mid",4,33,CAD,33,2,false,mechanical/aiData/product,4,5,6,2,5,9,1,5
+"Hatch","Mechanical Engineering Co-op","Mississauga, ON",4,"mid",4,33,CAD,33,2,false,mechanical/hardware/aiData,3,2,3,1,6,10,1,4
+"OpenText","Software Developer Co-op","Waterloo, ON",4,"mid",4,32,CAD,32,2,false,systems/product/aiData,8,8,5,2,1,0,0,0
+"Equitable Bank","Software Engineering Co-op","Toronto, ON",4,"mid",3,32,CAD,32,2,false,quant/systems/product,7,7,6,9,1,0,0,0
+"Hydro-Québec","Electrical Engineering Co-op","Montréal, QC",4,"mid",3,32,CAD,32,1,false,hardware/mechanical/aiData,3,2,4,2,10,8,0,4
+"D2L","Software Developer Co-op","Kitchener, ON",4,"mid",4,31,CAD,31,2,false,product/systems/aiData,7,9,5,2,1,0,0,0
+"TD","Software Engineering Co-op","Toronto, ON",4,"mid",4,31,CAD,31,2,false,quant/systems/product,7,7,5,8,2,0,0,0
+"WSIB","Data Analytics Co-op","Toronto, ON",4,"mid",3,31,CAD,31,2,false,aiData/quant/product,4,6,9,7,1,0,1,0
+"TELUS","Data Engineering Co-op","Vancouver, BC",4,"mid",4,30,CAD,30,2,false,aiData/systems/product,7,7,7,2,5,1,1,2
+"Hydro One","Electrical Engineering Co-op","Toronto, ON",4,"mid",3,30,CAD,30,1,false,hardware/mechanical/aiData,3,2,4,2,10,7,0,7
+"Bell","Network Engineering Co-op","Toronto, ON",4,"mid",3,29,CAD,29,2,false,systems/hardware/product,8,5,4,1,8,2,0,2
+"WSP","Digital Engineering Co-op","Toronto, ON",4,"mid",3,29,CAD,29,2,false,mechanical/aiData/hardware,4,4,5,2,5,8,1,9
+"Bruce Power","Engineering Co-op","Tiverton, ON",3,"mid",3,31,CAD,31,1,false,mechanical/hardware/aiData,2,1,3,1,9,9,2,6
+"Enbridge","Electrical Engineering Co-op","Calgary, AB",3,"mid",4,31,CAD,31,2,false,hardware/mechanical/aiData,3,2,4,2,10,8,0,5
+"Manulife","Data Science Co-op","Waterloo, ON",3,"mid",3,30,CAD,30,2,false,aiData/quant/product,5,6,8,8,1,0,1,0
+"Intact","Data Science Co-op","Toronto, ON",3,"mid",3,30,CAD,30,2,false,aiData/quant/product,5,6,8,7,1,0,1,1
+"Loblaw Digital","Software Developer Co-op","Toronto, ON",3,"mid",3,30,CAD,30,2,false,product/aiData/systems,6,9,6,3,1,1,0,2
+"National Bank","Data Analyst Co-op","Montréal, QC",3,"mid",3,30,CAD,30,2,false,quant/aiData/product,5,6,8,9,1,0,0,0
+"EllisDon","BIM Technology Co-op","Mississauga, ON",3,"mid",4,30,CAD,30,2,false,mechanical/product/aiData,4,6,5,2,4,9,0,5
+"BMO","Software Developer Co-op","Toronto, ON",3,"mid",3,29,CAD,29,2,false,quant/product/systems,6,7,5,8,1,0,0,0
+"CIBC","Data Engineering Co-op","Toronto, ON",3,"mid",3,29,CAD,29,2,false,quant/aiData/systems,6,6,7,8,1,0,0,0
+"Scotiabank","Developer Co-op","Toronto, ON",3,"mid",3,29,CAD,29,2,false,quant/product/systems,6,7,5,8,1,0,0,0
+"Sun Life","Software Engineering Co-op","Waterloo, ON",3,"mid",3,29,CAD,29,2,false,product/quant/systems,6,7,6,7,1,0,1,0
+"Rogers","Software Engineering Co-op","Toronto, ON",3,"mid",3,29,CAD,29,2,false,systems/product/hardware,7,7,4,1,6,1,0,1
+"Magna","Mechatronics Engineering Co-op","Aurora, ON",3,"mid",3,29,CAD,29,3,false,mechanical/hardware/aiData,4,2,5,1,8,10,1,3
+"Desjardins","Software Developer Co-op","Montréal, QC",3,"mid",3,29,CAD,29,2,false,quant/systems/product,7,7,5,9,1,0,0,0
+"Definity","Technology Co-op","Waterloo, ON",3,"mid",3,29,CAD,29,2,false,quant/product/aiData,6,7,7,9,1,0,0,0
+"Aecon","Project Controls Co-op","Toronto, ON",3,"mid",3,29,CAD,29,2,false,mechanical/aiData/product,3,5,6,4,3,9,0,5
+"McCain Foods","Automation Engineering Co-op","Toronto, ON",3,"mid",3,29,CAD,29,2,false,mechanical/hardware/aiData,4,3,5,2,8,9,1,3
+"Apotex","Process Data Co-op","Toronto, ON",3,"mid",3,27,CAD,27,3,false,bioNano/aiData/mechanical,3,3,6,3,3,4,10,1
+"Walmart","Supply Chain Automation Co-op","Bentonville, AR",2,"Trash",3,25,USD,33.75,2,false,mechanical/product/hardware,4,7,5,3,7,8,0,8
+"H&R Block","Financial Data Intern","Kansas City, MO",2,"Trash",3,24,USD,32.4,2,false,quant/aiData/systems,4,4,7,9,0,0,0,0
+"Canadian Tire","Technology Co-op","Toronto, ON",2,"Trash",2,27,CAD,27,2,false,product/systems/aiData,6,8,5,4,2,2,0,3
+"City of Toronto","Data Analyst Co-op","Toronto, ON",2,"Trash",3,27,CAD,27,2,false,aiData/quant/product,4,5,8,6,1,1,0,4
+"Government of Canada","Junior Developer Co-op","Ottawa, ON",2,"Trash",3,27,CAD,27,2,false,systems/product/aiData,8,6,5,2,3,0,0,2
+"LCBO","Business Systems Co-op","Toronto, ON",2,"Trash",3,26,CAD,26,2,false,quant/product/aiData,5,7,6,9,1,1,0,2
+"CGI","Software Developer Co-op","Toronto, ON",2,"Trash",3,25,CAD,25,2,false,systems/product/aiData,8,7,5,3,2,0,0,1
+"LifeLabs","Lab Systems Co-op","Toronto, ON",2,"Trash",3,25,CAD,25,2,false,bioNano/aiData/systems,4,3,7,2,3,2,10,1
+"Canada Post","IT Support Co-op","Ottawa, ON",2,"Trash",2,25,CAD,25,2,false,systems/product/hardware,7,5,3,1,5,1,0,2
+"Parks Canada","Park Ranger","Banff, AB",2,"Trash",3,24,CAD,24,2,false,mechanical/product/bioNano,0,2,0,0,1,5,2,0
+"Tata Consultancy Services","Software Developer Intern","Toronto, ON",1,"Trash",2,22,CAD,22,2,false,systems/product/aiData,8,6,4,2,2,0,0,0
+"Infosys","Systems Engineer Intern","Toronto, ON",1,"Trash",2,22,CAD,22,2,false,systems/product/hardware,8,5,4,2,5,1,0,1
+"PCL Construction","General Labourer","Toronto, ON",1,"Trash",1,22,CAD,22,3,true,mechanical/hardware/systems,1,0,0,0,2,5,0,0
+"FDM Group","Junior Developer Co-op","Toronto, ON",1,"Trash",2,22,CAD,22,3,false,systems/product/aiData,8,6,4,2,2,0,0,0
+"Wipro","Data Analyst Intern","Toronto, ON",1,"Trash",2,21,CAD,21,2,false,aiData/quant/product,4,5,9,6,1,0,1,2
+"Cargill","Meat Processing Job","Guelph, ON",1,"Trash",1,21,CAD,21,4,true,mechanical/hardware/bioNano,0,0,0,0,1,4,1,0
+"Costco","Warehouse Stocker","Kitchener, ON",1,"Trash",1,21,CAD,21,2,true,mechanical/product/systems,1,2,0,0,1,4,0,0
+"Maple Leaf Foods","Meat Processing Job","Hamilton, ON",1,"Trash",1,20,CAD,20,4,true,mechanical/hardware/bioNano,0,0,0,0,1,4,1,0
+"UPS","Package Handler","Cambridge, ON",1,"Trash",1,20,CAD,20,3,true,mechanical/systems/product,1,1,0,0,1,4,0,0
+"PepsiCo","Warehouse Picker","Cambridge, ON",1,"Trash",1,20,CAD,20,3,true,mechanical/systems/product,1,1,0,0,1,4,0,0
+"Purolator","Package Handler","Cambridge, ON",1,"Trash",1,20,CAD,20,3,true,mechanical/systems/product,1,1,0,0,1,4,0,0
+"Concentrix","Technical Support Representative","Toronto, ON",1,"Trash",2,20,CAD,20,3,false,systems/product/hardware,8,7,2,1,4,0,0,0
+"FedEx","Package Handler","Cambridge, ON",1,"Trash",1,19,CAD,19,3,true,mechanical/systems/product,1,1,0,0,1,4,0,0
+"IKEA","Warehouse Co-worker","Burlington, ON",1,"Trash",1,19,CAD,19,3,true,mechanical/product/systems,1,2,0,0,1,4,0,0
+"Rover","Dog Walker","Waterloo, ON",1,"Trash",1,18,CAD,18,4,true,product/mechanical/bioNano,0,3,0,0,0,3,1,0
+"Home Depot","Lot Associate","Waterloo, ON",1,"Trash",1,18,CAD,18,3,true,mechanical/product/hardware,0,2,0,0,1,4,0,0
+"Sobeys","Grocery Clerk","Waterloo, ON",1,"Trash",1,18,CAD,18,3,true,product/mechanical,0,3,0,0,0,3,0,0
+"McDonald's","Crew Member","Waterloo, ON",1,"Trash",1,17.6,CAD,17.6,3,true,product/mechanical,0,2,0,0,0,2,0,0
+"Wendy's","Grill Crew Member","Kitchener, ON",1,"Trash",1,17.6,CAD,17.6,3,true,product/mechanical,0,2,0,0,0,2,0,0
+"Tim Hortons","Crew Member","Waterloo, ON",1,"Trash",1,17.6,CAD,17.6,3,true,product/mechanical,0,2,0,0,0,2,0,0
+"Starbucks","Barista","Waterloo, ON",1,"Trash",1,17.6,CAD,17.6,3,true,product/mechanical,0,3,0,0,0,2,0,0
+"Subway","Sandwich Artist","Kitchener, ON",1,"Trash",1,17.6,CAD,17.6,3,true,product/mechanical,0,3,0,0,0,2,0,0
+"Dollarama","Store Associate","Kitchener, ON",1,"Trash",1,17.6,CAD,17.6,3,true,product/mechanical,0,3,0,0,0,3,0,0
