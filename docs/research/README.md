@@ -21,7 +21,7 @@ A single-page game. You spin a slot reel for a high-school average, choose up to
 
 ## Reference folder
 
-`reference/` holds the raw material these docs were written from. It is tracked in git so that anyone working on the project, including coding agents, has it. It contains another person's source code, verbatim game text and screenshots, so **this repo must stay private while the folder is in it.** Use it to understand how the site works. Do not copy text, code, assets or layout from it into the game (see [05-notes-for-the-ut-version.md](05-notes-for-the-ut-version.md)).
+`reference/` holds the raw material these docs were written from. It is tracked in git so that anyone working on the project, including coding agents, has it. It contains another person's source code, verbatim game text and screenshots. Use it to understand how the site works. Do not copy text, code, assets or layout from it into the game (see [05-notes-for-the-ut-version.md](05-notes-for-the-ut-version.md)).
 
 | Path | Contents |
 |---|---|
